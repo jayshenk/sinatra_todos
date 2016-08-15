@@ -6,6 +6,7 @@ gem "sinatra-contrib", "~>1.4.7"
 gem "erubis"
 
 gem "pg"
+gem "sequel"
 
 group :production do
   gem "puma"
